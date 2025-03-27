@@ -1,0 +1,57 @@
+c:\xampp\htdocs\newfragrancecopy1\
+├── admin\
+│   ├── dashboard.php
+│   ├── manage_brands.php
+│   ├── manage_perfumes.php
+│   ├── manage_users.php
+│   ├── manage_forums.php
+│   └── reports.php
+├── assets\
+│   ├── css\
+│   │   ├── style.css
+│   │   └── admin.css
+│   ├── js\
+│   │   ├── main.js
+│   │   └── admin.js
+│   └── images\
+│       ├── logo.png
+│       └── default-avatar.png
+├── uploads\
+│   ├── brands\
+│   ├── perfumes\
+│   ├── users\
+│   └── forums\
+├── includes\
+│   ├── header.php
+│   ├── footer.php
+│   ├── nav.php
+│   ├── functions.php
+│   └── auth.php
+├── modules\
+│   ├── brands\
+│   │   ├── add.php
+│   │   ├── edit.php
+│   │   └── list.php
+│   ├── forums\
+│   │   ├── create.php
+│   │   ├── view.php
+│   │   └── reply.php
+│   ├── perfumes\
+│   │   ├── add.php
+│   │   ├── compare.php
+│   │   └── review.php
+│   └── users\
+│       ├── profile.php
+│       ├── messages.php
+│       └── settings.php
+├── api\
+│   └── endpoints\
+│       ├── search.php
+│       ├── votes.php
+│       └── comments.php
+├── sql\
+│   └── fragrance_haven.sql
+├── config.php
+├── db.php
+├── index.php
+└── .htaccess
